@@ -1,3 +1,5 @@
+![Captura de pantalla de 2024-12-30 18-49-51](https://github.com/user-attachments/assets/c41ccfe2-e489-4f5e-b10f-9500e47e74ef)
+Bordes REDONDEADOS
 # Compilacion y instalacion de picom Debian - Ubunutu y derivados
 - source : https://github.com/jonaburg/picom
 ```
